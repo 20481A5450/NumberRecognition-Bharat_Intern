@@ -1,6 +1,6 @@
 # Handwritten Digits Recognition
 
-![Handwritten Digits](https://th.bing.com/th/id/OIG.ieprritn78p5xfpmSIRL?pid=ImgGn) <!-- Replace with an image illustrating your project -->
+![Handwritten Digits](https://th.bing.com/th/id/OIG.ieprritn78p5xfpmSIRL?pid=ImgGn) 
 
 ## Overview
 
