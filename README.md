@@ -56,13 +56,13 @@ The project uses the MNIST dataset, a widely-used dataset for handwritten digit 
 2. If training a new model, run the script:
 
    ```bash
-   python main.py
+   python NumberRecognition.py
    ```
 
 3. If using an existing model, simply run the script:
 
    ```bash
-   python main.py
+   python NumberRecognition.py
    ```
 
 4. Follow the prompts to input custom images of handwritten digits for recognition.
